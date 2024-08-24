@@ -31,7 +31,7 @@ Run the Script: Execute the script in a Python environment that supports Tkinter
 python3 extract.py
 ```
 
-Select the File: Click the "Browse..." button to select the Word document (.docx) from which you want to extract content. An example file has been provided in this directory "John1-2.docx"
+Select the File: Click the "Browse..." button to select the Word document (.docx) from which you want to extract content. An example file has been provided in this directory "John2-3.docx"
 
 Choose Output Format: Use the radio buttons to select the desired output format:
 Text File (.txt): The extracted content will be saved as a plain text file.
